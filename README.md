@@ -21,14 +21,8 @@
 ◆ CLASSE
   → Desenvolvedor front-end / back-end
 
-◆ ORIGEM
-  → Brasil 🇧🇷
-
 ◆ STATUS
   → Aprendendo & Desenvolvendo
-
-◆ FOCO
-  → Desenvolvedor 
 ```
 
 </td>

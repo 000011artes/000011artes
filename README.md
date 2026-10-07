@@ -137,7 +137,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000011artes&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
 
 </div>
 

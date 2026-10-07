@@ -1,4 +1,4 @@
-name: Generate Snake
+name:000011artes
 
 on:
   schedule:

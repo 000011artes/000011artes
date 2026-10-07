@@ -63,10 +63,11 @@
 
 <br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+[linux](https://img.shields.io/badge/linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 
 </div>
 

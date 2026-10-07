@@ -10,7 +10,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
 
 <td width="55%" valign="middle">

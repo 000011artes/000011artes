@@ -112,7 +112,11 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=000011artesB&show_icons=true">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=000011artes&show_icons=true&hide_border=true&theme=dark">
+
+</div>
 
 </td>
 

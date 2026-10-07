@@ -1,8 +1,9 @@
+```markdown
 <div align="center">
 
 # `000011artes`
 
-### Desenvolvedor front-end / back-end
+### Desenvolvedor Front-end / Back-end
 
 `Brasil 🇧🇷` · `Desenvolvedor Autodidata` · `Sempre Aprendendo`
 
@@ -10,11 +11,10 @@
 
 <br>
 
-<td width="45%" valign="top" align="right">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
 
-<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="100%">
-
-</td>
+<td width="55%" valign="middle">
 
 ### `PERFIL`
 
@@ -29,14 +29,30 @@
   → Aprendendo & Desenvolvendo
 
 ◆ FOCO
-  → Desenvolvedor 
+  → Desenvolvimento Web
+```
+
+<br>
+
+### `OBJETIVO`
+
+```text
+Aprender
+   ↓
+Construir
+   ↓
+Melhorar
+   ↓
+Criar
+   ↓
+Repetir
 ```
 
 </td>
 
-<td width="45%" align="center">
+<td width="45%" valign="top" align="right">
 
-<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="600">
+<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="100%">
 
 </td>
 
@@ -51,12 +67,12 @@
 
 <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br>
 
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 
@@ -66,7 +82,7 @@
 
 ## `SOBRE MIM`
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
 <td width="50%" valign="top">
@@ -108,20 +124,16 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 <div align="center">
 
-<table>
+<table cellspacing="0" cellpadding="0" border="0">
 <tr>
 
-<td align="center">
-
-<div align="center">
+<td align="center" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api?username=000011artes&show_icons=true&hide_border=true&theme=dark">
 
-</div>
-
 </td>
 
-<td align="center">
+<td align="center" valign="top">
 
 <img src="https://streak-stats.demolab.com?user=000011artes&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff">
 
@@ -146,7 +158,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 ## `PROJETOS`
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
 <td width="50%" valign="top">
@@ -256,7 +268,7 @@ Arquitetura de Software
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=000011artes&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%">
 
 </div>
 
@@ -266,7 +278,7 @@ Arquitetura de Software
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/000011artes">
 
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
 
@@ -299,3 +311,4 @@ Arquitetura de Software
 `© 2026 000011artes`
 
 </div>
+```

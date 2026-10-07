@@ -112,7 +112,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api?username=000011artesB&show_icons=true">
 
 </td>
 

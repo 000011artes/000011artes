@@ -101,22 +101,6 @@
 </div>
 
 ---
-
-## `APRENDENDO ATUALMENTE`
-
-<div align="center">
-
-```text
-[████████████████░░░░] 80%
-
-BACK-END
-FULL-STACK
-BANCOS DE DADOS
-APIs
-GIT & GITHUB
-ARQUITETURA DE SOFTWARE
-```
-
 </div>
 
 ---

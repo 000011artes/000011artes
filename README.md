@@ -1,10 +1,10 @@
 <div align="center">
 
-# 000011artes
+# `000011artes`
 
-### Backend / Full-Stack Developer
+### Desenvolvedor Backend / Full-Stack
 
-`Brazil 🇧🇷` · `Self-Taught Developer` · `Always Learning`
+`Brasil 🇧🇷` · `Desenvolvedor Autodidata` · `Sempre Aprendendo`
 
 </div>
 
@@ -15,27 +15,27 @@
 
 <td width="55%" valign="middle">
 
-### `PROFILE`
+### `PERFIL`
 
 ```text
-◆ CLASS
-  → Backend / Full-Stack Developer
+◆ CLASSE
+  → Desenvolvedor Backend / Full-Stack
 
-◆ ORIGIN
-  → Brazil 🇧🇷
+◆ ORIGEM
+  → Brasil 🇧🇷
 
 ◆ STATUS
-  → Learning & Building
+  → Aprendendo & Desenvolvendo
 
-◆ FOCUS
-  → Software Development
+◆ FOCO
+  → Desenvolvimento de Software
 ```
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/main/assets/profile.gif" width="220">
+<img src="./assets/profile.gif" width="220">
 
 </td>
 
@@ -44,7 +44,7 @@
 
 ---
 
-## `TECHNOLOGIES`
+## `TECNOLOGIAS`
 
 <div align="center">
 
@@ -64,38 +64,38 @@
 
 ---
 
-## `ABOUT`
+## `SOBRE MIM`
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### `01 // PROFILE`
+### `01 // PERFIL`
 
-I'm a young developer focused on building projects, learning new technologies and improving my programming skills.
+Sou um jovem desenvolvedor focado em criar projetos, aprender novas tecnologias e melhorar constantemente minhas habilidades de programação.
 
-I enjoy turning ideas into functional projects and experimenting with different technologies.
+Gosto de transformar ideias em projetos funcionais e experimentar diferentes tecnologias.
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02 // OBJECTIVE`
+### `02 // OBJETIVO`
 
 ```text
-Learn
-  ↓
-Build
-  ↓
-Improve
-  ↓
-Create
-  ↓
-Repeat
+Aprender
+   ↓
+Construir
+   ↓
+Melhorar
+   ↓
+Criar
+   ↓
+Repetir
 ```
 
-My goal is to evolve continuously as a developer and build increasingly complex projects.
+Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada vez mais completos e complexos.
 
 </td>
 
@@ -104,7 +104,7 @@ My goal is to evolve continuously as a developer and build increasingly complex 
 
 ---
 
-## `STATISTICS`
+## `ESTATÍSTICAS`
 
 <div align="center">
 
@@ -130,7 +130,7 @@ My goal is to evolve continuously as a developer and build increasingly complex 
 
 ---
 
-## `MOST USED LANGUAGES`
+## `LINGUAGENS MAIS UTILIZADAS`
 
 <div align="center">
 
@@ -140,16 +140,16 @@ My goal is to evolve continuously as a developer and build increasingly complex 
 
 ---
 
-## `PROJECTS`
+## `PROJETOS`
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### `01 // WEB PROJECTS`
+### `01 // PROJETOS WEB`
 
-Projects created with:
+Projetos desenvolvidos utilizando:
 
 ```text
 HTML
@@ -157,13 +157,13 @@ CSS
 JavaScript
 ```
 
-Focus:
+Foco:
 
 ```text
-UI / UX
-Responsive Design
-Interactive Interfaces
-Web Applications
+Interfaces
+Design Responsivo
+Experiência do Usuário
+Aplicações Web
 ```
 
 </td>
@@ -172,7 +172,7 @@ Web Applications
 
 ### `02 // SOFTWARE`
 
-Projects involving:
+Projetos envolvendo:
 
 ```text
 Python
@@ -181,13 +181,49 @@ SQL
 APIs
 ```
 
-Focus:
+Foco:
 
 ```text
-Logic
-Automation
+Lógica
+Automação
 Backend
-Data
+Dados
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `03 // DESENVOLVIMENTO DE JOGOS`
+
+Projetos e experimentos envolvendo:
+
+```text
+JavaScript
+Three.js
+Unity
+Pixel Art
+Game Development
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04 // SISTEMAS`
+
+Projetos relacionados a:
+
+```text
+Linux
+Hardware
+Servidores
+VPS
+Automação
 ```
 
 </td>
@@ -197,22 +233,22 @@ Data
 
 ---
 
-## `CURRENTLY LEARNING`
+## `APRENDENDO ATUALMENTE`
 
 ```text
 [████████████████░░░░] 80%
 
-Backend Development
-Full-Stack Development
-Databases
+Desenvolvimento Backend
+Desenvolvimento Full-Stack
+Bancos de Dados
 APIs
 Git & GitHub
-Software Architecture
+Arquitetura de Software
 ```
 
 ---
 
-## `GITHUB ACTIVITY`
+## `ATIVIDADE NO GITHUB`
 
 <div align="center">
 
@@ -222,7 +258,7 @@ Software Architecture
 
 ---
 
-## `CONTACT`
+## `CONTATO`
 
 <div align="center">
 
@@ -249,9 +285,9 @@ Software Architecture
 ```text
 ────────────────────────────────────────────────────────
 
-             "BUILD. LEARN. EVOLVE."
+             "APRENDER. CRIAR. EVOLUIR."
 
-          BACKEND / FULL-STACK DEVELOPER
+          DESENVOLVEDOR BACKEND / FULL-STACK
 
 ────────────────────────────────────────────────────────
 ```

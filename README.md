@@ -2,7 +2,7 @@
 
 # `000011artes`
 
-### Desenvolvedor Backend / Full-Stack
+### Desenvolvedor front-end / back-end
 
 `Brasil 🇧🇷` · `Desenvolvedor Autodidata` · `Sempre Aprendendo`
 
@@ -19,7 +19,7 @@
 
 ```text
 ◆ CLASSE
-  → Desenvolvedor front-end
+  → Desenvolvedor front-end / back-end
 
 ◆ ORIGEM
   → Brasil 🇧🇷
@@ -49,14 +49,12 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
 
 <br>
 
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 

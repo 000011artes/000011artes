@@ -35,7 +35,7 @@
 
 <td width="45%" align="center">
 
-<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="500">
+<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="600">
 
 </td>
 

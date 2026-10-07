@@ -122,7 +122,7 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 <td align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff">
+<img src="https://streak-stats.demolab.com?user=000011artes&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff">
 
 </td>
 

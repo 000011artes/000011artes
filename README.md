@@ -55,6 +55,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 

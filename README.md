@@ -2,12 +2,6 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=000011artes&style=flat-square&color=000000&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL)
-
-</div>
-
 ---
 
 <br/><br/>

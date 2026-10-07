@@ -35,7 +35,7 @@
 
 <td width="45%" align="center">
 
-<img src="https://share.google/WNq4GsLxSApH3opZh" width="220">
+<img src="https://br.pinterest.com/pin/98657048083684265/" width="220">
 
 </td>
 

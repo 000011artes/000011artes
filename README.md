@@ -35,7 +35,7 @@
 
 <td width="45%" align="center">
 
-<img src="./assets/gitttt" width="220">
+<img src="https://pin.it/1YdifxdUV" width="220">
 
 </td>
 

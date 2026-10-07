@@ -62,19 +62,29 @@
 </div>
 
 ## `ESTATÍSTICAS`
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
 
 <div align="center">
 
-<img
-  width="300"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=000011artes&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=false&border_color=2a2a2a"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=000011artes&show_icons=true&hide_border=true&theme=dark">
+
 </div>
-<img
-  height="200"
-  src="https://streak-stats.demolab.com?user=000011artes&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"
-/>
+
+</td>
+
+<td align="center">
+
+<img src="https://streak-stats.demolab.com?user=000011artes&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff">
+
+</td>
+
+</tr>
+</table>
 
 </div>
 

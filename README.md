@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=600&lines=Desenvolvedor+em+formação;O+mundo+é+seu." alt="Typing SVG" />
-</a>
-
 </div>
 
 <div align="center">

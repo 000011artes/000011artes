@@ -32,18 +32,6 @@
 
 <br>
 
-<pre>
-◈  OBJETIVO
-
-    Aprender
-       ↓
-    Construir
-       ↓
-    Melhorar
-       ↓
-    Criar
-</pre>
-
 </td>
 
 <td align="right" width="50%" valign="top">

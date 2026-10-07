@@ -106,15 +106,11 @@
 
 <div align="center">
 
-<a href="https://github.com/000011artes">
-
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=000011artes&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF"
-  width="100%"
-  alt="Gráfico de atividade"
+src="https://github-readme-activity-graph.vercel.app/graph?username=000011artes&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF"
+width="100%"
+alt="Gráfico de atividade"
 />
-
-</a>
 
 </div>
 

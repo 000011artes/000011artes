@@ -19,7 +19,7 @@
 
 ```text
 ◆ CLASSE
-  → Desenvolvedor Backend / Full-Stack
+  → Desenvolvedor front-end
 
 ◆ ORIGEM
   → Brasil 🇧🇷
@@ -28,7 +28,7 @@
   → Aprendendo & Desenvolvendo
 
 ◆ FOCO
-  → Desenvolvimento de Software
+  → Desenvolvedor 
 ```
 
 </td>

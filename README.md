@@ -35,7 +35,7 @@
 
 <td width="45%" align="center">
 
-<img src="./assets/profile.gif" width="220">
+<img src="https://share.google/WNq4GsLxSApH3opZh" width="220">
 
 </td>
 

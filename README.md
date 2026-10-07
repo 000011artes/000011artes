@@ -10,10 +10,11 @@
 
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="0">
-<tr>
+<td width="45%" valign="top" align="right">
 
-<td width="55%" valign="middle">
+<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="100%">
+
+</td>
 
 ### `PERFIL`
 

@@ -1,40 +1,66 @@
 <div align="center">
 
-# `000011artes`
-
-### Desenvolvedor front-end / back-end
-
-`Brasil 🇧🇷` · `Desenvolvedor Autodidata` · `Sempre Aprendendo`
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=600&lines=Desenvolvedor+em+formação;O+mundo+é+seu." alt="Typing SVG" />
+</a>
 
 </div>
 
-<br>
+<div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="0">
+![Profile Views](https://komarev.com/ghpvc/?username=000011artes&style=flat-square&color=000000&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL)
+
+</div>
+
+---
+
+<br/><br/>
+
+<div align="center">
+
+<table width="100%">
 <tr>
 
-<td width="55%" valign="middle">
+<td align="left" width="50%" valign="middle">
 
-### `PERFIL`
+<pre>
+◈  CLASSE    →  Desenvolvedor Front-end / Back-end
+◈  ORIGEM    →  Brasil 🇧🇷
+◈  STATUS    →  Aprendendo & Desenvolvendo
+◈  FOCO      →  Desenvolvimento Web
+</pre>
 
-```text
-◆ CLASSE
-  → Desenvolvedor front-end / back-end
+<br>
 
-◆ STATUS
-  → Aprendendo & Desenvolvendo
-```
+<pre>
+◈  OBJETIVO
+
+    Aprender
+       ↓
+    Construir
+       ↓
+    Melhorar
+       ↓
+    Criar
+</pre>
 
 </td>
 
-<td width="45%" align="center">
+<td align="right" width="50%" valign="top">
 
-<img src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg" width="500">
+<img
+  width="400"
+  src="https://i.pinimg.com/736x/ed/f8/45/edf8452aebbb3c184025016a11b92816.jpg"
+/>
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
+<br/><br/>
 
 ---
 
@@ -42,20 +68,23 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 
-<br>
+<br/>
 
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS&logoColor=white">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
 ---
+
+<br/>
 
 ## `SOBRE MIM`
 
@@ -66,29 +95,31 @@
 
 ### `01 // PERFIL`
 
-Sou um jovem desenvolvedor focado em criar projetos, aprender novas tecnologias e melhorar constantemente minhas habilidades de programação.
+Sou um desenvolvedor autodidata em constante evolução.
 
-Gosto de transformar ideias em projetos funcionais e experimentar diferentes tecnologias.
+Gosto de criar projetos, experimentar novas tecnologias e transformar ideias em aplicações funcionais.
+
+Meu foco atual está no desenvolvimento web, programação e construção de projetos próprios.
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02 // OBJETIVO`
+### `02 // MENTALIDADE`
 
 ```text
-Aprender
-   ↓
-Construir
-   ↓
-Melhorar
-   ↓
-Criar
-   ↓
-Repetir
+┌──────────────────────┐
+│      APRENDER        │
+├──────────────────────┤
+│      PRATICAR        │
+├──────────────────────┤
+│      CONSTRUIR       │
+├──────────────────────┤
+│      EVOLUIR         │
+└──────────────────────┘
 ```
 
-Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada vez mais completos e complexos.
+Estou sempre buscando aprender algo novo e melhorar meus projetos.
 
 </td>
 
@@ -97,31 +128,99 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 ---
 
-## `ESTATÍSTICAS`
+## `PROJETOS`
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<div align="center">
+### `WEB DEVELOPMENT`
 
-<img src="https://github-readme-stats.vercel.app/api?username=000011artes&show_icons=true&hide_border=true&theme=dark">
+```text
+HTML
+CSS
+JavaScript
+```
 
-</div>
+Interfaces, páginas web, sistemas e experiências responsivas.
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=000011artes&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff">
+### `BACK-END`
+
+```text
+Python
+Java
+SQL
+APIs
+```
+
+Lógica de programação, dados, automação e desenvolvimento de sistemas.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `GAME DEVELOPMENT`
+
+```text
+Three.js
+Unity
+JavaScript
+Pixel Art
+```
+
+Experimentos e projetos relacionados ao desenvolvimento de jogos.
+
+</td>
+
+<td width="50%" valign="top">
+
+### `SISTEMAS`
+
+```text
+Linux
+Hardware
+Servidores
+VPS
+```
+
+Exploração de sistemas, servidores, hardware e infraestrutura.
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
+---
+
+<br/>
+
+## `ESTATÍSTICAS`
+
+<div align="center">
+
+<img
+  width="300"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api?username=000011artes&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide_border=false&border_color=2a2a2a"
+/>
+
+<img
+  height="200"
+  src="https://streak-stats.demolab.com?user=000011artes&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF"
+/>
 
 </div>
 
@@ -131,117 +230,11 @@ Meu objetivo é evoluir continuamente como desenvolvedor e criar projetos cada v
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=000011artes&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=000011artes&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FFFFFF&text_color=FFFFFF&hide_border=false&border_color=2a2a2a"
+/>
 
 </div>
-
----
-
-## `PROJETOS`
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### `01 // PROJETOS WEB`
-
-Projetos desenvolvidos utilizando:
-
-```text
-HTML
-CSS
-JavaScript
-```
-
-Foco:
-
-```text
-Interfaces
-Design Responsivo
-Experiência do Usuário
-Aplicações Web
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02 // SOFTWARE`
-
-Projetos envolvendo:
-
-```text
-Python
-Java
-SQL
-APIs
-```
-
-Foco:
-
-```text
-Lógica
-Automação
-Backend
-Dados
-```
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `03 // DESENVOLVIMENTO DE JOGOS`
-
-Projetos e experimentos envolvendo:
-
-```text
-JavaScript
-Three.js
-Unity
-Pixel Art
-Game Development
-```
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04 // SISTEMAS`
-
-Projetos relacionados a:
-
-```text
-Linux
-Hardware
-Servidores
-VPS
-Automação
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `APRENDENDO ATUALMENTE`
-
-```text
-[████████████████░░░░] 80%
-
-Desenvolvimento Backend
-Desenvolvimento Full-Stack
-Bancos de Dados
-APIs
-Git & GitHub
-Arquitetura de Software
-```
 
 ---
 
@@ -249,7 +242,34 @@ Arquitetura de Software
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%">
+<a href="https://github.com/000011artes">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=000011artes&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF"
+  width="100%"
+  alt="Gráfico de atividade"
+/>
+
+</a>
+
+</div>
+
+---
+
+## `APRENDENDO ATUALMENTE`
+
+<div align="center">
+
+```text
+[████████████████░░░░] 80%
+
+BACK-END
+FULL-STACK
+BANCOS DE DADOS
+APIs
+GIT & GITHUB
+ARQUITETURA DE SOFTWARE
+```
 
 </div>
 
@@ -259,9 +279,9 @@ Arquitetura de Software
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO_GITHUB">
+<a href="https://github.com/000011artes">
 
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
+![GitHub](https://img.shields.io/badge/GITHUB-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 </a>
 
@@ -269,7 +289,7 @@ Arquitetura de Software
 
 <a href="https://www.linkedin.com/">
 
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+![LinkedIn](https://img.shields.io/badge/LINKEDIN-111?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)
 
 </a>
 
@@ -277,18 +297,23 @@ Arquitetura de Software
 
 ---
 
+<br/>
+
 <div align="center">
 
 ```text
-────────────────────────────────────────────────────────
+────────────────────────────────────────────────────
 
-             "APRENDER. CRIAR. EVOLUIR."
+              APRENDER • CRIAR • EVOLUIR
 
-          DESENVOLVEDOR BACKEND / FULL-STACK
+             DESENVOLVEDOR EM FORMAÇÃO
 
-────────────────────────────────────────────────────────
+────────────────────────────────────────────────────
 ```
 
 `© 2026 000011artes`
 
 </div>
+```
+
+**E uma observação importante:** se o seu objetivo principal é deixar a espada **maior e realmente encostada na lateral**, esse modelo que você encontrou é a direção certa, mas o tamanho `400` ainda pode deixar espaço dependendo da largura da tela. Podemos ajustar a coluna e a imagem para ficar **o mais parecido possível com esse modelo específico**.
